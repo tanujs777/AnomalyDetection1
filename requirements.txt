@@ -3,3 +3,5 @@ requests
 pandas
 Pillow
 python-dotenv
+google-generativeai
+
